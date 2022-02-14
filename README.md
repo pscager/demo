@@ -7,4 +7,4 @@ Hello. This is Przemek. It's my first simple readme file so be easy on me. :D
 
 ##Another changes here etc
 
-##And Another changes etc, and i add another update on a branch
+I hope this isnt much of problem
